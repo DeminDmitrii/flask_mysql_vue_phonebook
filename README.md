@@ -13,7 +13,7 @@ the SQL database.
 
 ### Built With
 
-![Python] [Python]
+![Python][Python]
 ![Flask][Flask]
 ![Node.js][Node.js]
 ![Vue][Vue.js]
